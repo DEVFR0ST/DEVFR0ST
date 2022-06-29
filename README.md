@@ -25,10 +25,12 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=FLASK)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
+
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-![Devfrost GitHub stats](https://github-readme-stats.vercel.app/api?username=Devfrost&show_icons=true&theme=radical)
+![Devfrost GitHub stats](https://github-readme-stats.vercel.app/api?username=Devfrost&show_icons=true&theme=dark)
 
 
 <br><br>
